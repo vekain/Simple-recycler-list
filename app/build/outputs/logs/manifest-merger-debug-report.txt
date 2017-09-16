@@ -1,0 +1,74 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Recycler_exp/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Recycler_exp/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /home/vikash_parashar/Android/AndroidStudioProjects/Recycler_exp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vikash_parashar/Android/AndroidStudioProjects/Recycler_exp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/vikash_parashar/Android/AndroidStudioProjects/Recycler_exp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vikash_parashar/Android/AndroidStudioProjects/Recycler_exp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Recycler_exp/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/vikash_parashar/Android/AndroidStudioProjects/Recycler_exp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vikash_parashar/Android/AndroidStudioProjects/Recycler_exp/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Recycler_exp/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.1.1] /home/vikash_parashar/.android/build-cache/1c28eee4e887c6cca841bbdd633d508982f8373f/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.1] /home/vikash_parashar/.android/build-cache/78e9ea58bf328443553e7766c5094cb47e5ec10f/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] /home/vikash_parashar/.android/build-cache/d9b0e452f57dff8e60042c39c75d3c3865e039ec/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] /home/vikash_parashar/.android/build-cache/6db09a9624af5c865efc6edba060d640e340777e/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] /home/vikash_parashar/.android/build-cache/bd2396accdb2e222d5f804158d28367ee56f1d8a/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /home/vikash_parashar/.android/build-cache/c60a12081ad57000582e62e08c26fbeef5c207bc/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /home/vikash_parashar/.android/build-cache/18721f832c95fc7f4304cf027620a0d9b1301b80/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] /home/vikash_parashar/.android/build-cache/316797185b5537fdc30d5ec640ba98b2c352caa9/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] /home/vikash_parashar/.android/build-cache/ae53dba450dda2967559b0eb5a76fff816e98374/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] /home/vikash_parashar/.android/build-cache/151f633b7b9476ccaa26bb38ba004e93787b00d4/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Recycler_exp/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Recycler_exp/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Recycler_exp/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Recycler_exp/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Recycler_exp/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Recycler_exp/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.mega2.recycler_exp.MainActivity
+ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Recycler_exp/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Recycler_exp/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Recycler_exp/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Recycler_exp/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Recycler_exp/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Recycler_exp/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/vikash_parashar/Android/AndroidStudioProjects/Recycler_exp/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/vikash_parashar/Android/AndroidStudioProjects/Recycler_exp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.1.1] /home/vikash_parashar/.android/build-cache/1c28eee4e887c6cca841bbdd633d508982f8373f/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.1] /home/vikash_parashar/.android/build-cache/78e9ea58bf328443553e7766c5094cb47e5ec10f/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] /home/vikash_parashar/.android/build-cache/d9b0e452f57dff8e60042c39c75d3c3865e039ec/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] /home/vikash_parashar/.android/build-cache/6db09a9624af5c865efc6edba060d640e340777e/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.1] /home/vikash_parashar/.android/build-cache/bd2396accdb2e222d5f804158d28367ee56f1d8a/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /home/vikash_parashar/.android/build-cache/c60a12081ad57000582e62e08c26fbeef5c207bc/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /home/vikash_parashar/.android/build-cache/18721f832c95fc7f4304cf027620a0d9b1301b80/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] /home/vikash_parashar/.android/build-cache/316797185b5537fdc30d5ec640ba98b2c352caa9/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:25.1.1] /home/vikash_parashar/.android/build-cache/2a626a82b17a1a61742973878be2975650c85ffb/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.1.1] /home/vikash_parashar/.android/build-cache/ae53dba450dda2967559b0eb5a76fff816e98374/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.1] /home/vikash_parashar/.android/build-cache/151f633b7b9476ccaa26bb38ba004e93787b00d4/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.1] /home/vikash_parashar/.android/build-cache/1c28eee4e887c6cca841bbdd633d508982f8373f/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/vikash_parashar/Android/AndroidStudioProjects/Recycler_exp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vikash_parashar/Android/AndroidStudioProjects/Recycler_exp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/vikash_parashar/Android/AndroidStudioProjects/Recycler_exp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vikash_parashar/Android/AndroidStudioProjects/Recycler_exp/app/src/main/AndroidManifest.xml
